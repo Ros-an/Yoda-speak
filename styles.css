@@ -60,6 +60,7 @@ button {
      width: 100%;
      position: fixed;
      bottom: 0;
+     border-top: 1px solid var(--primary);
  }
  footer div{
      font-size: x-large;
